@@ -1,0 +1,21 @@
+.special {
+  color: orange;
+}
+.main {
+  position: relative;
+  width: 400px;
+  height: 800px;
+  margin: 0 auto;
+  top: 150px;
+  text-align: center;
+  font-size: 37px;
+}
+.greeting {
+  color: red;
+}
+body {
+  background-image: url("/images/20201119_150556.jpg");
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+}
